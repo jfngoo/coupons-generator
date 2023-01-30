@@ -1,0 +1,2 @@
+# coupons-generator
+Generates coupons
