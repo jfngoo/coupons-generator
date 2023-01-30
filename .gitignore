@@ -1,0 +1,4 @@
+.idea
+coupons-banks/*.csv
+.DS_Store
+node_modules
